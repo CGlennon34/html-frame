@@ -1,0 +1,13 @@
+.headline{
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.byline{
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: light;
+    margin-bottom: 30px;
+}
+
